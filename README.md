@@ -3,7 +3,9 @@
 ## Digital Verification of Suspected Transnational Repression in Tokyo
 
 **Project Lead:** Janet Zheng Huang 
+
 **Focus Area:** Digital Verification · Transnational Repression · Japan  
+
 **Location of Analysis:** Shinjuku Station (South Exit), Tokyo
 
 ---
