@@ -42,9 +42,11 @@ Original posts were archived using the **Wayback Machine** to preserve timestamp
 ---
 
 ### B. Geolocation (Proving WHERE)
+
 > **Note on Visual Materials:**  
 > In a live investigative context, this section would include side-by-side visual comparisons between source footage and Google Street View to demonstrate geolocation.  
 > For ethical and privacy reasons, and to avoid reproducing sensitive imagery, visual materials are not displayed in this public repository.
+
 **Tools Used**
 - Google Earth Pro  
 - Google Street View  
