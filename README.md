@@ -12,15 +12,14 @@
 
 This project demonstrates the application of open-source digital verification methods to document an incident of **suspected monitoring and intimidation of diaspora activists** during a peaceful assembly in Tokyo.
 
-Through structured visual analysis of publicly available digital material, this brief establishes a factual baseline consistent with patterns of **transnational repression (TNR)** documented by Human Rights Watch and partner organizations. The project illustrates how verified digital evidence can support **protective engagement** and **policy advocacy** in the Japanese context.
+Through structured visual analysis of publicly available digital material, this brief illustrates how verified digital evidence can support **protective engagement** and **policy advocacy** in the Japanese context.
 
 ---
 
 ## Scope and Simulation Notice
 
 This project is a **methodological demonstration** of open-source verification techniques used in human rights investigations.
-
-- All visual materials are either publicly available or illustrative substitutes  
+ 
 - No private individuals are identified  
 - No allegation of criminal responsibility is made  
 - The analysis relies exclusively on open-source information  
