@@ -42,7 +42,9 @@ Original posts were archived using the **Wayback Machine** to preserve timestamp
 ---
 
 ### B. Geolocation (Proving WHERE)
-
+> **Note on Visual Materials:**  
+> In a live investigative context, this section would include side-by-side visual comparisons between source footage and Google Street View to demonstrate geolocation.  
+> For ethical and privacy reasons, and to avoid reproducing sensitive imagery, visual materials are not displayed in this public repository.
 **Tools Used**
 - Google Earth Pro  
 - Google Street View  
@@ -105,29 +107,3 @@ This verification exercise demonstrates how digital evidence can inform:
 - SunCalc.org  
 - Wayback Machine  
 - Manual visual analysis  
-
----
-
-## Relevance to Human Rights Watch Internships
-
-**Digital Investigations Lab**
-- Open-source verification methodology  
-- Visual geolocation and chronolocation  
-- Ethical evidence handling  
-
-**Asia Division**
-- Focus on transnational repression affecting diaspora communities  
-- Japan-specific political and legal context  
-- Evidence-to-advocacy translation  
-
----
-
-## Ethical Considerations
-
-- No identification of private individuals  
-- No facial recognition or personal data analysis  
-- Conservative evidentiary language throughout  
-
----
-
-## Repository Structure
